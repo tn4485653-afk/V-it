@@ -18,7 +18,7 @@ REFRESH_INTERVAL = 5 * 60 * 60
 
 TOKEN_FILE = "token_vn.json"
 TOKENS_PER_REQUEST = 20
-TARGET_VISIT = 5000   # 🎯 tổng visit
+TARGET_VISIT = 1500   # 🎯 tổng visit
 
 token_rotation = {}
 
