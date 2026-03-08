@@ -1,4 +1,5 @@
 flask
 aiohttp
+requests
 protobuf
-pycryptodome
+gunicorn
